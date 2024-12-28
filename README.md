@@ -1,2 +1,2 @@
-# techblock
-codeyad projetct - techblock
+# techblog
+codeyad projetct - techblog
